@@ -1,4 +1,3 @@
-
 Feature: Place the order for Product
 @Placeorder
   Scenario Outline: Checkout Scenario
